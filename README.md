@@ -1,75 +1,75 @@
 # 🎀 Ribbons
 
-Weaving Affinities, Strengthening Bonds.
+Tecendo Afinidades, Fortalecendo Laços.
 
-**Ribbons** is an iOS application designed to strengthen genuine friendships and create meaningful connections by identifying deep cultural affinities between users. It transforms your daily digital consumption into threads for real-world conversation.
+**Ribbons** é um aplicativo iOS projetado para fortalecer amizades genuínas e criar conexões significativas, identificando afinidades culturais profundas entre os usuários. Ele transforma seu consumo digital diário em fios para conversas no mundo real.
 
 ---
 
-## 💡 About the App
+## 💡 Sobre o Aplicativo
 
-Ribbons is not a dating app; it is a tool for **affinity and connection**. It focuses on strengthening real bonds by looking beyond surface-level interests and diving into the core of what users genuinely consume and love on a daily basis.
+**Ribbons** não é um aplicativo de namoro; é uma ferramenta para **afinidade e conexão**. Ele se concentra em fortalecer laços reais, olhando além dos interesses superficiais e mergulhando no âmago do que os usuários genuinamente consomem e amam diariamente.
 
-The application functions as a "web of affinities," where every interest becomes a thread, and Ribbons expertly weaves these threads together.
+O aplicativo funciona como uma "teia de afinidades", onde cada interesse se torna um fio, e o Ribbons tece esses fios habilmente.
 
-## 📲 Download
+## 📲 Baixar
 
-Start transforming your work routine now!
-**Download Ribbons on the App Store:**  
+Comece a transformar sua rotina agora!
+**Baixe o Ribbons na App Store:**  
 👉 [**Ribbons: Discover and Match**](https://apps.apple.com/br/app/ribbons-discover-and-match/id6749454251)
 
-### 🎯 Core Purpose
+### 🎯 Propósito Central
 
-Ribbons helps users to:
+O Ribbons ajuda os usuários a:
 
-* **Discover** deep, often unexpected, cultural overlaps.
-* **Forge** genuine connections based on shared consumption patterns.
-* **Transform** cultural consumption (music, books, games, videos) into compelling conversation starters.
-* **Strengthen** existing relationships or foster new, meaningful ones.
+* **Descobrir** sobreposições culturais profundas e muitas vezes inesperadas.
+* **Forjar** conexões genuínas baseadas em padrões de consumo compartilhados.
+* **Transformar** o consumo cultural (música, livros, jogos, vídeos) em iniciadores de conversa atraentes.
+* **Fortalecer** relacionamentos existentes ou promover novos e significativos.
 
 ---
 
-## 🔗 Integrated Platforms
+## 🔗 Plataformas Integradas
 
-Ribbons connects directly to the following major platforms to gain a rich understanding of each user's tastes:
+O Ribbons se conecta diretamente às seguintes plataformas principais para obter uma compreensão rica dos gostos de cada usuário:
 
-| Platform | Data Analyzed |
+| Plataforma | Dados Analisados |
 | :--- | :--- |
-| **Apple Music** | Songs, albums and artists. |
-| **YouTube** | Liked videos and preferred channels. |
-| **Steam** | Games played and invested hours. |
-| **Hardcover** | Read, wished-for, and reviewed books. |
+| **Apple Music** | Músicas, álbuns e artistas. |
+| **YouTube** | Vídeos curtidos e canais preferidos. |
+| **Steam** | Jogos jogados e horas investidas. |
+| **Hardcover** | Livros lidos, desejados e resenhados. |
 
-These deep data points allow the app to generate **real affinity matches** based on what people truly consume and engage with.
-
----
-
-## 🧠 How Matching Works
-
-The core intelligence of Ribbons goes beyond simple categorization. It analyzes affinity based on several key factors:
-
-* **Cultural Consumption Patterns:** Mapping the general landscape of a user's digital habits.
-* **Recurrence:** Identifying content the user returns to, indicating deep interest.
-* **Strong Overlaps:** Identifying deep, surprising coincidences that are guaranteed conversation starters.
-
-The goal is to **discover profound and unexpected coincidences** that spark conversation and lead to genuine friendship, avoiding random or surface-level matches.
+Esses pontos de dados profundos permitem que o aplicativo gere **combinações de afinidade reais** com base no que as pessoas realmente consomem e com o que interagem.
 
 ---
 
-## 📱 Technology Stack
+## 🧠 Como Funciona a Combinação
 
-Ribbons is a native iOS application built for performance, intimacy, and a seamless user experience.
+A inteligência central do Ribbons vai além da simples categorização. Ele analisa a afinidade com base em vários fatores-chave:
 
-| Component | Technology / Language |
+* **Padrões de Consumo Cultural:** Mapeando o panorama geral dos hábitos digitais de um usuário.
+* **Recorrência:** Identificando conteúdo ao qual o usuário retorna, indicando interesse profundo.
+* **Fortes Sobreposições:** Identificando coincidências profundas e surpreendentes que são iniciadores de conversa garantidos.
+
+O objetivo é **descobrir coincidências profundas e inesperadas** que despertem conversas e levem a amizades genuínas, evitando combinações aleatórias ou superficiais.
+
+---
+
+## 📱 Stack Tecnológico
+
+Ribbons é um aplicativo iOS nativo construído para desempenho, intimidade e uma experiência de usuário fluida.
+
+| Componente | Tecnologia / Linguagem |
 | :--- | :--- |
-| **Platform** | iOS |
-| **Development** | Swift, SwiftUI |
-| **Data Integration** | External APIs (YouTube, Hardcover, Apple Music, Steam) |
-| **UI/UX Focus**| Lightweight, intimate, and emotional design. |
+| **Plataforma** | iOS |
+| **Desenvolvimento** | Swift, SwiftUI |
+| **Integração de Dados** | APIs Externas (YouTube, Hardcover, Apple Music, Steam) |
+| **Foco em UI/UX**| Design leve, íntimo e emocional. |
 
 ---
 
-## 👥 Authors
+## 👥 Autores
 
 <div align="center">
 
@@ -82,7 +82,7 @@ Ribbons is a native iOS application built for performance, intimacy, and a seaml
       </a><br />
       <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
-     <td align="center" style="padding: 10px;">
+      <td align="center" style="padding: 10px;">
       <a href="https://github.com/LunaRafaelle" target="_blank">
         <img src="https://github.com/LunaRafaelle.png" width="150px" style="border-radius: 50%;" alt="Luan Aiezza"/><br />
         <span style="font-weight: bold; font-size: 16px; color: #333;">Luna Printes</span>
@@ -99,4 +99,3 @@ Ribbons is a native iOS application built for performance, intimacy, and a seaml
   </tr>
 </table>
 </div>
-
